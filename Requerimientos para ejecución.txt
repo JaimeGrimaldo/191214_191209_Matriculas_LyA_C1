@@ -1,0 +1,16 @@
+El Software se programo con Python usando Pyside2 junto a QtDesign para la elaboración de la interfaz grafica. Por ende ocupamos activar un entorno virtual para que se nos permita correr el programa.
+Al menos Python posee una libreria Tkinter "pobre" en el aspecto de diseño, por ende optamos por usar Pyside 2 que cuenta con más libertad en su modificación.
+
+PASOS
+1. Activar el entorno virtual
+2. El entorno ya posee las librerias usadas, sin embargo desconosco si sera capaz de correr en otros equipos. Por lo consiguiente, aca le dejo los comandos necesarios.
+	pip install virtualenv
+	python -m venv (nombre entorno)
+	"activar entorno"
+	pip install pyside2
+
+La queremos mucho :3
+- ATTE: Grimaldo y Mau
+PD: Mau huele feo.
+	
+
